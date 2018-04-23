@@ -1,0 +1,36 @@
+#chat-page .chat-me .am-list-extra{
+	flex-basis: auto;
+}
+
+#chat-page .chat-me .am-list-content{
+	padding-right: 15px;
+	text-align: right;
+}
+
+.chat_right {
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 17px 10px;
+    background: #0f8ee9;
+    color: #fff;
+    width: 50%;
+    border-radius: 4px;
+    float: right;
+    margin-right: 15px;
+}
+
+.chat_left {
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 17px 10px;
+    background: #fff;
+    color: #000;
+    width: 50%;
+    border-radius: 4px;
+    margin-left: 63px;
+    border: 1px solid rgb(226, 226, 226);
+}
+
+#chat-page .am-grid-text {
+    margin-top: 0;
+}

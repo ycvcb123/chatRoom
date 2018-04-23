@@ -1,0 +1,12 @@
+1. npm install body-parser 为了处理post请求
+2. npm install cookie-parser 为了处理cookie
+3. 对密码进行加密 md5
+   npm install utility --save
+4. npm install prop-types 属性验证
+
+
+5. 安装socket.io的服务端和客户端
+
+npm install socket.io --save
+
+npm install socket.io-client --save
